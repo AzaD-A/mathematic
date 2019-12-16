@@ -17,4 +17,4 @@ python mathematic.py(works on python3)
 
 # usage for kali and termux
 
-open the link ()
+
