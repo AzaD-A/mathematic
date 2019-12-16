@@ -21,6 +21,8 @@ git clone https://github.com/AzaD-A/mathematic.git
 
 cd mathematic
 
-apt-get install python3
+apt-get install python3(kali)
+
+pkg install python3(termux)
 
 python3 mathematicLINUX.py
