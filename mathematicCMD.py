@@ -2,7 +2,6 @@
 # follow me on IG @p8z4
 import math
 import sys
-import socket
 from os import system
 
 zhmeryarbanner = '''
