@@ -17,4 +17,8 @@ python mathematicCMD.py(works on python3)
 
 # usage for kali and termux
 
+git clone https://github.com/AzaD-A/mathematic.git
 
+cd mathematic
+
+python3 mathematicLINUX.py
