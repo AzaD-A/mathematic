@@ -13,7 +13,7 @@ unzip the file
 
 open CMD 
 
-python mathematic.py(works on python3)
+python mathematicCMD.py(works on python3)
 
 # usage for kali and termux
 
