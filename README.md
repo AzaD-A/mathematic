@@ -21,4 +21,6 @@ git clone https://github.com/AzaD-A/mathematic.git
 
 cd mathematic
 
+apt-get install python3
+
 python3 mathematicLINUX.py
